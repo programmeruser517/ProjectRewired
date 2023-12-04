@@ -7,6 +7,6 @@ Note for interested users, when viewing the app concept link on ProtoPie Cloud, 
 Please help make this project a reality and feel free to code this to anyone's heart's content. 
 
 - Peter Pena, Daksh Dhanda, and Sarvesh Kumar
-- Michigan State University College of Engineering
+- Michigan State University - College of Engineering
 - WRA 101 - Dr. Sarah Prielipp
 - <3
